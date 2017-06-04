@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+    <string name="detail_activity_title">MovieDetail</string>
+    <string name="error_message_display">An error has occurred. Please try again.</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_top_rated">Top Rated</string>
+</resources>
